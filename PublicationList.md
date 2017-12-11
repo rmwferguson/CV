@@ -30,3 +30,5 @@ __RMW Ferguson__ Feedstocks influence on the process parameters and the microbia
 ### Conference proceedings
 
 __RMW Ferguson__, F Coulon, R Villa: Influence of glycerol overload on microbial communities in anaerobic digesters. 4th International Conference on Engineering for Waste and Biomass Valorisation, Porto; 09/2012
+
+## Last update Dec 2017

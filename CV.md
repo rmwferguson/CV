@@ -109,7 +109,7 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 
 `2013`
 Award: __British Ecological Society Travel grant__ (INTECOL 2013) 
-
+`2012`
 Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 
 ## Skills Long
@@ -132,13 +132,13 @@ Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 * Lipid and hydrocarbon extraction from various matrix
 
 ### General lab skills
-* method development
-* trouble shooting and problem solving
-* risk assessment, COSHH
+* Method development/optimization
+* Trouble shooting and problem solving
+* Risk assessment, COSHH
 * Culture based microbiology and systematic identification
-*	Culture based microbiology
+*  Culture based microbiology
 * Basic microscopy
-*	Water and waste water analysis (alkalinity, COD, BOD, ammonia, nitrate,  etc.)
+*  Water and waste water analysis (alkalinity, COD, BOD, ammonia, nitrate,  etc.)
 * Flow cytometry
 * Fish hematologic analysis and immune assays 
 
@@ -158,7 +158,7 @@ Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 * QIIME, Mothur, RDP pipeline and other standalone tools
 * BlastN command line 
 * Alpha diversity indexes
-* beta-diversity
+* Beta-diversity
   * Ordination (MDS, PCA, CCA, etc.)
   * Significance testing (PerMANOVA, simper, ANOSIM)
   * OTU significance testing (differential abundance) with various methods inc LEFSE
@@ -168,6 +168,7 @@ Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 * Linux
 * Maintaining databases
 * Bash
+* R
 * Basic Python
 * Latex
 * Computer cluster use

@@ -89,11 +89,11 @@ S, C Hendry, __RMW Ferguson__, B Martin, R Villa, B Jefferson, F Coulon: Insight
 
 __RMW Ferguson__, R Villa, F Coulon: Bioengineering options and strategies for the optimization of anaerobic digestion processes. __Environmental Technology Reviews__ 3 (1), 1-14 05/2014; 3(1)., DOI:10.1080/09593330.2014.
 
-__RMW Ferguson__, D.L. Merrifield, G.M. Harper, M D Rawling, S Mustafa, S Picchietti, J.L. Balcázar, S.J. Davies: The effect of Pediococcus acidilactici on the gut microbiota and immune status of on-growing red tilapia (Oreochromis niloticus). Journal of Applied Microbiology 03/2010; 109(3):851-62., DOI:10.1111/j.1365-2672.2010.04713.x
+__RMW Ferguson__, D.L. Merrifield, G.M. Harper, M D Rawling, S Mustafa, S Picchietti, J.L. Balcázar, S.J. Davies: The effect of Pediococcus acidilactici on the gut microbiota and immune status of on-growing red tilapia (Oreochromis niloticus). __Journal of Applied Microbiology__ 03/2010; 109(3):851-62., DOI:10.1111/j.1365-2672.2010.04713.x
 
 ### Book chapters
 
-AJ Dumbrell, __RMW Ferguson__, DR Clark: Microbial Community Analysis by Single-Amplicon High-Throughput Next Generation Sequencing: Data Analysis – From Raw Output to Ecology. Hydrocarbon and lipid microbiology protocols. Microbial Quantitation, Community Profiling and Array Approaches, 1st edited by McGenity TJ, Timmis KN, Nogales B, 01/2017: chapter 10: pages 1-52; Springer-Verlag Berlin Heidelberg., ISBN: 978-3-662-52776-4, DOI:10.1007/8623_2016_228
+AJ Dumbrell, __RMW Ferguson__, DR Clark: Microbial Community Analysis by Single-Amplicon High-Throughput Next Generation Sequencing: Data Analysis – From Raw Output to Ecology. __Hydrocarbon and lipid microbiology protocols__. Microbial Quantitation, Community Profiling and Array Approaches, 1st edited by McGenity TJ, Timmis KN, Nogales B, 01/2017: chapter 10: pages 1-52; Springer-Verlag Berlin Heidelberg., ISBN: 978-3-662-52776-4, DOI:10.1007/8623_2016_228
 
 ### PhD Thesis
 

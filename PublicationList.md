@@ -4,6 +4,8 @@
 
 ### Journal articles
 
+Clark DR, __Ferguson RMW__, Harris DN, Matthews Nicholass KJ, Prentice HJ,  Randall KC, Randell L, Warren SL, Dumbrell AJ. (2017 in Press accepted manuscript) Streams of Data from Drops of Water: 21st Century Molecular Microbial Ecology. __WIREs__.
+
 S Eduok, __RMW Ferguson__, B Jefferson, R Villa, F Coulon: Aged-engineered nanoparticles effect on sludge anaerobic digestion performance and associated microbial communities. __Science of The Total Environment__ 12/2017; 609:232-241., DOI:10.1016/j.scitotenv.2017.07.178
 
 __RMW Ferguson__, E Gontikaki, JA Anderson, U Witte: The Variable Influence of Dispersant on Degradation of Oil Hydrocarbons in Subarctic Deep-Sea Sediments at Low Temperatures (0–5 °C). __Scientific Reports__ 05/2017; 7(1):2253., DOI:10.1038/s41598-017-02475-9

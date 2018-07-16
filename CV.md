@@ -127,10 +127,10 @@ University of Essex (2015-)
 Used and developed molecular methods to characterise the bioaerosol microbial community across Urban, Agricultural and Industrial Environments. Specifically, determined the optimal sampling strategies/methods for characterising the bioaerosol community with high-throughput sequencing; and developed a tool for rapid pathogen detection un under 60 mins. 
 
 Outputs:
-*(Sonia Garcia-Alcega et al., 2018) (S. Garcia-Alcega et al., 2017)
-*Decision workflow for selecting optimal sampling strategy
-*Rapid bioaerosol detection system (RaPaDs) system for detecting pathogens from air in under 60 mins
-*Detailed characterization of the bioaerosol microbiome to date using metagenetics, metagenomics, and metatranscriptomics.
+* (Sonia Garcia-Alcega et al., 2018) and (S. Garcia-Alcega et al., 2017)
+* Decision workflow for selecting optimal sampling strategy
+* Rapid bioaerosol detection system (RaPaDs) system for detecting pathogens from air in under 60 mins
+* Detailed characterization of the bioaerosol microbiome to date using metagenetics, metagenomics, and metatranscriptomics.
 
 NERC  NE/M010813/1 
 
@@ -162,11 +162,11 @@ Cranfield University (2010-2013)
 Using molecular methods (high-throughput DNA sequencing and lipid fingerprinting) to improve our understanding of the key parameters controlling and regulating the microbial groups involved in the anaerobic digestion (AD) process  
 
 Outputs:
-(Robert M W Ferguson, Coulon, & Villa, 2018)
-(Eduok, Ferguson, Jefferson, Villa, & Coulon, 2017)
-(Robert M.W. Ferguson, Coulon, & Villa, 2016)
-(Eduok et al., 2015)
-(Robert M W Ferguson, Villa, & Coulon, 2014)
+* (Robert M W Ferguson, Coulon, & Villa, 2018)
+* (Eduok, Ferguson, Jefferson, Villa, & Coulon, 2017)
+* (Robert M.W. Ferguson, Coulon, & Villa, 2016)
+* (Eduok et al., 2015)
+* (Robert M W Ferguson, Villa, & Coulon, 2014)
 
 EPSRC CASE studentship 09001767 and QUESTOR for funding (CRA01/09/12)
 

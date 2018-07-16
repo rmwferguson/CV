@@ -132,6 +132,8 @@ Outputs:
 * Rapid bioaerosol detection system (RaPaDs) system for detecting pathogens from air in under 60 mins
 * Detailed characterization of the bioaerosol microbiome to date using metagenetics, metagenomics, and metatranscriptomics.
 
+Contribution: Senior postdoctoral research officer
+
 NERC  NE/M010813/1 
 
 ### __Using metagenomics for fine-scale resolution of pathogen functional and phylogenetic diversity in farm bioaerosols.___ 
@@ -139,10 +141,14 @@ University of Essex (2017-2018)
 
 Samples collected for metagenomics at farms, sequencing not yet completed. 
 
+Contribution: Principal investigator 
+
 ### __Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods.__ 
 University of Essex (2016)
 
 Characterised size fractioned bioaerosol community at a compost site, urban park and farm. Currently prepping a journal article for submission to ISME. A poster on the project will be presented at the ISME17 conference in Leipzig (Aug 2018). 
+
+Contribution: Principal investigator 
 
 ### __The natural capacity for oil degradation of marine environments: towards developing DNA-based biosensors for monitoring low-level oil pollution__
 
@@ -152,6 +158,8 @@ Using high-throughput DNA sequencing to investigate the key bacterial groups inv
 
 Outputs:
 (Ferguson, Gontikaki, Anderson, & Witte, 2017)
+
+Contribution: Postdoctoral research assistant
 
 NERC NE/L00819X/1 
 
@@ -167,6 +175,8 @@ Outputs:
 * (Robert M.W. Ferguson, Coulon, & Villa, 2016)
 * (Eduok et al., 2015)
 * (Robert M W Ferguson, Villa, & Coulon, 2014)
+
+Contribution: PhD Student
 
 EPSRC CASE studentship 09001767 and QUESTOR for funding (CRA01/09/12)
 

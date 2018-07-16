@@ -3,9 +3,9 @@
 </div>
 
 ### Journal articles
-__Ferguson, R. M. W.__, Coulon, F., & Villa, R. (2018). Understanding microbial ecology can help improve biogas production in AD. Science of the Total Environment, 642, 754–763. http://doi.org/10.1016/j.scitotenv.2018.06.007
+__Ferguson, R. M. W.__, Coulon, F., & Villa, R. (2018). Understanding microbial ecology can help improve biogas production in AD. __Science of the Total Environment__, 642, 754–763. http://doi.org/10.1016/j.scitotenv.2018.06.007
 
-Garcia-Alcega, S., Nasir, Z. A., __Ferguson, R. M. W.__, Noël, C., Cravo-Laureau, C., Withby, C., … Coulon, F. (2018). Can chemical and molecular biomarkers help discriminate between industrial, rural and urban environments? Science of The Total Environment, 631–632, 1059–1069. http://doi.org/10.1016/j.scitotenv.2018.03.062
+Garcia-Alcega, S., Nasir, Z. A., __Ferguson, R. M. W.__, Noël, C., Cravo-Laureau, C., Withby, C., … Coulon, F. (2018). Can chemical and molecular biomarkers help discriminate between industrial, rural and urban environments? __Science of The Total Environment__, 631–632, 1059–1069. http://doi.org/10.1016/j.scitotenv.2018.03.062
 
 Clark DR, __Ferguson RMW__, Harris DN, Matthews Nicholass KJ, Prentice HJ,  Randall KC, Randell L, Warren SL, Dumbrell AJ. (2017) Streams of Data from Drops of Water: 21st Century Molecular Microbial Ecology. __Wiley Interdisciplinary Reviews: Water__, e1280. http://doi.org/10.1002/wat2.1280
 
@@ -21,7 +21,7 @@ S, C Hendry, __RMW Ferguson__, B Martin, R Villa, B Jefferson, F Coulon: Insight
 
 __RMW Ferguson__, R Villa, F Coulon: Bioengineering options and strategies for the optimization of anaerobic digestion processes. __Environmental Technology Reviews__ 3 (1), 1-14 05/2014; 3(1)., DOI:10.1080/09593330.2014.
 
-__RMW Ferguson__, D.L. Merrifield, G.M. Harper, M D Rawling, S Mustafa, S Picchietti, J.L. Balcázar, S.J. Davies: The effect of Pediococcus acidilactici on the gut microbiota and immune status of on-growing red tilapia (Oreochromis niloticus). Journal of Applied Microbiology 03/2010; 109(3):851-62., DOI:10.1111/j.1365-2672.2010.04713.x
+__RMW Ferguson__, D.L. Merrifield, G.M. Harper, M D Rawling, S Mustafa, S Picchietti, J.L. Balcázar, S.J. Davies: The effect of Pediococcus acidilactici on the gut microbiota and immune status of on-growing red tilapia (Oreochromis niloticus). __Journal of Applied Microbiology__ 03/2010; 109(3):851-62., DOI:10.1111/j.1365-2672.2010.04713.x
 
 ### Book chapters
 

@@ -65,8 +65,9 @@ __Bristol Cathedral School__
 * Data analysis
 * Field work
 * Budget management
-*	Grant writing
+* Grant writing
 * Peer review (grants and papers)
+* Social Media
 
  See below for specific details
 
@@ -81,7 +82,7 @@ __Ferguson RMW__, F. Coulon, and R. Villa (2018) “Understanding microbial ecol
 
 Garcia-Alcega, S., Nasir, Z. A., __Ferguson RMW__, … F. Coulon, (2018). “Can chemical and molecular biomarkers help discriminate between industrial, rural and urban environments?” Sci. Total Environ, 631–632, 1059–1069.
 
-Clark DR, __Ferguson RMW__, Harris DN, Matthews Nicholass KJ, Prentice HJ,  Randall KC, Randell L, Warren SL, Dumbrell AJ. (2017 in Press accepted manuscript) Streams of Data from Drops of Water: 21st Century Molecular Microbial Ecology. __WIREs__.
+Clark DR, __Ferguson RMW__, Harris DN, Matthews Nicholass KJ, Prentice HJ,  Randall KC, Randell L, Warren SL, Dumbrell AJ. (2017 in Press accepted manuscript) Streams of Data from Drops of Water: 21st Century Molecular Microbial Ecology. __WIREs__.
 
 S Eduok, __RMW Ferguson__, B Jefferson, R Villa, F Coulon: Aged-engineered nanoparticles effect on sludge anaerobic digestion performance and associated microbial communities. __Science of The Total Environment__ 12/2017; 609:232-241., DOI:10.1016/j.scitotenv.2017.07.178
 
@@ -117,6 +118,57 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 Award: __British Ecological Society Travel grant__ (INTECOL 2013) 
 `2012`
 Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
+
+## Projects
+### __Rapid Monitoring of Bioaerosols in Urban, Agricultural and Industrial Environments. RAMBIE__
+
+University of Essex (2015-) 
+
+Used and developed molecular methods to characterise the bioaerosol microbial community across Urban, Agricultural and Industrial Environments. Specifically, determined the optimal sampling strategies/methods for characterising the bioaerosol community with high-throughput sequencing; and developed a tool for rapid pathogen detection un under 60 mins. 
+
+Outputs:
+*(Sonia Garcia-Alcega et al., 2018) (S. Garcia-Alcega et al., 2017)
+*Decision workflow for selecting optimal sampling strategy
+*Rapid bioaerosol detection system (RaPaDs) system for detecting pathogens from air in under 60 mins
+*Detailed characterization of the bioaerosol microbiome to date using metagenetics, metagenomics, and metatranscriptomics.
+
+NERC  NE/M010813/1 
+
+### __Using metagenomics for fine-scale resolution of pathogen functional and phylogenetic diversity in farm bioaerosols.___ 
+University of Essex (2017-2018)
+
+Samples collected for metagenomics at farms, sequencing not yet completed. 
+
+### __Investigate structure of bioaerosol bacterial communities in different size factions using culture independent methods.__ 
+University of Essex (2016)
+
+Characterised size fractioned bioaerosol community at a compost site, urban park and farm. Currently prepping a journal article for submission to ISME. A poster on the project will be presented at the ISME17 conference in Leipzig (Aug 2018). 
+
+### __The natural capacity for oil degradation of marine environments: towards developing DNA-based biosensors for monitoring low-level oil pollution__
+
+University of Aberdeen (2014-2015) 
+
+Using high-throughput DNA sequencing to investigate the key bacterial groups involved in oil degradation in the deep waters West of Shetland. Investigated the influence of marine oil dispersant on the rates and bacterial communities during an oil spill clean-up operation. 
+
+Outputs:
+(Ferguson, Gontikaki, Anderson, & Witte, 2017)
+
+NERC NE/L00819X/1 
+
+###  __Feedstocks influence on the process parameters and the microbial community in anaerobic digestion__
+
+Cranfield University (2010-2013)
+
+Using molecular methods (high-throughput DNA sequencing and lipid fingerprinting) to improve our understanding of the key parameters controlling and regulating the microbial groups involved in the anaerobic digestion (AD) process  
+
+Outputs:
+(Robert M W Ferguson, Coulon, & Villa, 2018)
+(Eduok, Ferguson, Jefferson, Villa, & Coulon, 2017)
+(Robert M.W. Ferguson, Coulon, & Villa, 2016)
+(Eduok et al., 2015)
+(Robert M W Ferguson, Villa, & Coulon, 2014)
+
+EPSRC CASE studentship 09001767 and QUESTOR for funding (CRA01/09/12)
 
 ## Skills Long
 
@@ -281,4 +333,4 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 
 
 
-#### Last updated: July 2018 
+#### Last updated: July 2018

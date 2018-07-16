@@ -20,7 +20,7 @@ Developing rapid molecular tools for monitoring bioaerosols.
 Molecular Ecology, Environmental Microbiology, Microbial Ecology
 ## Research interests
 
-Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deep-sea, Nanoparticles, Aerobiology, Anaerobic Digestion, Applied microbiology
+Bioaerosols, Bioremediation, Oil Microbiology, Aquaculture, Deep-sea, Nanoparticles, Aerobiology, Anaerobic Digestion, Applied microbiology, Environmental Microbiology
 
 ## Previous Employment
 `2014-2015`
@@ -66,6 +66,7 @@ __Bristol Cathedral School__
 * Field work
 * Budget management
 *	Grant writing
+* Peer review (grants and papers)
 
  See below for specific details
 
@@ -76,6 +77,9 @@ __Bristol Cathedral School__
 </div>
 
 ### Journal articles
+__Ferguson RMW__, F. Coulon, and R. Villa (2018) “Understanding microbial ecology can help improve biogas production in AD,” Sci. Total Environ,  642, 754-763.
+
+Garcia-Alcega, S., Nasir, Z. A., __Ferguson RMW__, … F. Coulon, (2018). “Can chemical and molecular biomarkers help discriminate between industrial, rural and urban environments?” Sci. Total Environ, 631–632, 1059–1069.
 
 Clark DR, __Ferguson RMW__, Harris DN, Matthews Nicholass KJ, Prentice HJ,  Randall KC, Randell L, Warren SL, Dumbrell AJ. (2017 in Press accepted manuscript) Streams of Data from Drops of Water: 21st Century Molecular Microbial Ecology. __WIREs__.
 
@@ -257,7 +261,7 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 
 * Athena Swan Committee, School of Biological Sciences (Essex University)
 * Early Career Researcher Committee, School of Biological Sciences (Essex University)
-* Grant Reviewing
+* Grant Reviewing BBSRC
 *	Supervision of undergraduate and MSc students in the lab and field
 *	Organising group seminar series at Essex University
 
@@ -269,6 +273,7 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 * Indoor and Built Environment
 * Environmental Pollution
 * Environment International
+* Scientific Reports 
 
 
 
@@ -276,4 +281,4 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 
 
 
-#### Last updated: Dec 2017 
+#### Last updated: July 2018 

@@ -78,7 +78,10 @@ __Bristol Cathedral School__
 </div>
 
 ### Journal articles
-__Ferguson RMW__, F. Coulon, and R. Villa (2018) “Understanding microbial ecology can help improve biogas production in AD,” Sci. Total Environ,  642, 754-763.
+
+__Robert M.W. Ferguson__, ..... I Colbeck (2019) "Bioaerosol Biomonitoring: Sampling Optimisation for Molecular Microbial Ecology" Mol Ecol Resour, doi: 10.1111/1755‐0998.13002
+
+__Ferguson RMW__, F. Coulon, and R. Villa (2018) “Understanding microbial ecology can help improve biogas production in AD,” Sci. Total Environ,  642, 754-763. 
 
 Garcia-Alcega, S., Nasir, Z. A., __Ferguson RMW__, … F. Coulon, (2018). “Can chemical and molecular biomarkers help discriminate between industrial, rural and urban environments?” Sci. Total Environ, 631–632, 1059–1069.
 
@@ -116,20 +119,31 @@ Grant: __The Aerosol Society Undergraduate Research Bursary__ - Investigate stru
 
 `2013`
 Award: __British Ecological Society Travel grant__ (INTECOL 2013) 
+
 `2012`
 Award: __Society of general Microbiology travel grant__ (SGM Dublin 2012)
 
 ## Projects
+
+### __A novel framework for predicting emerging chemical stressor impacts in complex ecosystems__
+
+University of Essex (2018-) 
+
+The project will combine modelling, experimental manipulations and monitoring across a range of freshwater ecosystems that provide crucial services to society, from those driven by microbes at the base of the food web (for example, water purification) to those associated with fishes at the top.
+
 ### __Rapid Monitoring of Bioaerosols in Urban, Agricultural and Industrial Environments. RAMBIE__
 
 University of Essex (2015-) 
 
 Used and developed molecular methods to characterise the bioaerosol microbial community across Urban, Agricultural and Industrial Environments. Specifically, determined the optimal sampling strategies/methods for characterising the bioaerosol community with high-throughput sequencing; and developed a tool for rapid pathogen detection un under 60 mins. 
 
+Contribution: Senior postdoctoral research officer
+
 Outputs:
+* Rapid bioaerosol pathogen detection system, A method using LAMP to detect speicifc pathogens in < 60 in the field.
 * (Sonia Garcia-Alcega et al., 2018) and (S. Garcia-Alcega et al., 2017)
-* Decision workflow for selecting optimal sampling strategy
-* Rapid bioaerosol detection system (RaPaDs) system for detecting pathogens from air in under 60 mins
+* Decision workflow for selecting optimal sampling strategy (Ferguson et al. 2019)
+
 * Detailed characterization of the bioaerosol microbiome to date using metagenetics, metagenomics, and metatranscriptomics.
 
 Contribution: Senior postdoctoral research officer
@@ -157,7 +171,7 @@ University of Aberdeen (2014-2015)
 Using high-throughput DNA sequencing to investigate the key bacterial groups involved in oil degradation in the deep waters West of Shetland. Investigated the influence of marine oil dispersant on the rates and bacterial communities during an oil spill clean-up operation. 
 
 Outputs:
-(Ferguson, Gontikaki, Anderson, & Witte, 2017)
+Chariteristaion of the hydrocarbon degrading bacteria in the deep sea west of Shetland (Ferguson et al., 2017)
 
 Contribution: Postdoctoral research assistant
 
@@ -183,15 +197,17 @@ EPSRC CASE studentship 09001767 and QUESTOR for funding (CRA01/09/12)
 ## Skills Long
 
 ### Molecular biology
-* Standard skills such as electrophoresis and aseptic methods
-* PCR, RT-qPCR
+*  Standard skills such as electrophoresis and aseptic methods
+*  PCR 
+*  RT-qPCR
+*  Digital droptlet PCR
 *	Next gen sequencing library preparation 	
 *	DNA extraction and purification (various and method development)
 *	DGGE fingerprinting
 *	PLFA and PLEL fingerprinting
 *	DNA quantification with Pico Green
 *	DNA sizing and quantification with Bioanalyzer
-* Loop mediated isothermal amplification (LAMP)
+*  Loop mediated isothermal amplification (LAMP)
 
 ### Analytical chemistry
 * GC-MS, GC-FID, GC, TOC, and HPLC 
@@ -205,7 +221,7 @@ EPSRC CASE studentship 09001767 and QUESTOR for funding (CRA01/09/12)
 * Risk assessment, COSHH
 * Culture based microbiology and systematic identification
 *  Culture based microbiology
-* Basic microscopy
+*  Basic microscopy
 *  Water and waste water analysis (alkalinity, COD, BOD, ammonia, nitrate,  etc.)
 * Flow cytometry
 * Fish hematologic analysis and immune assays 
@@ -280,9 +296,13 @@ __RMW Ferguson__, F Coulon, R Villa: Influence of glycerol overload on microbial
 
 ### Presentations
 
+__Public Health Research and Science Conference 2019__ (2019) Manchester. Detection of Bioaerosol Microbes in Under an Hour. Bioaerosol Sampling for Molecular Biomonitoring.
+
+__Dstl Environmental Microbiology & Human Health Meeting__ (2019) Dstl Porton Down. 
+
 __European Aerosol Conference__ (2017)  Zurich. The bioaerosol bacterial microbiome at urban, agricultural, and industrial sites: Exposure, size fraction and composition.
 
-__British Aerosol Society focus meeting 10, Bioaerosols__ (2017) Novel Insights into the size distributions of bioaerosols.
+__British Aerosol Society focus meeting 10, Bioaerosols__ (2017) Bristol. Novel Insights into the size distributions of bioaerosols.
 
 __Bioaerosol, microbiome & lung disease symposium__ (2017) Utrecht University, Rapid monitoring of bioaerosols in Urban, Agricultural and Industrial Environments. 
 
@@ -299,6 +319,8 @@ __INTECOL__ (2013) London. Inﬂuence of microbial community structure on perfor
 __society for general Microbiology, Spring conference__ (2012) Dublin. Inﬂuence of stress events on microbial communities in anaerobic digesters. 
 
 ### Posters
+
+__ISME 17__ (2018) leipzig. The influence of size on microbial dispersal at the local and landscape level.
 
 __International Symposium on Applied Microbiology and Molecular Biology in Oil Systems 6__ (2017) San Diego. The Variable Influence of Dispersant on Degradation of Oil Hydrocarbons in Subarctic Deep-Sea Sediments at Low Temperatures (0–5 °C). 
 

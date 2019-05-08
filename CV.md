@@ -362,7 +362,7 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 * Scientific Reports 
 * Science of the Total Environment
 
-| <a href="https://publons.com/researcher/1390785/robert-ferguson/">Publons</a>
+<a href="https://publons.com/researcher/1390785/robert-ferguson/">Publons Profile</a>
  
 
 

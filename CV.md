@@ -7,8 +7,8 @@ Molecular Ecologist
    | <a href="https://rmwferguson.wordpress.com/">Personal Website</a>
    | <a href="https://www1.essex.ac.uk/bs/staff/profile.aspx?ID=4521">Staff Webpage</a>
    | <a href="https://scholar.google.co.uk/citations?user=H_F1eCkAAAAJ&hl=en">Google Scholar</a>
+   | <a href="https://www.linkedin.com/in/rmwferguson/">LinkedIn</a>
 </div>
-
 
 ## Current Employment
 `2015 onwards`
@@ -357,10 +357,13 @@ __WasteEng 2012__ (2012) Porto. Influence of glycerol overload on microbial comm
 * Indoor and Built Environment
 * Environmental Pollution
 * Environment International
+* Energy
+* Environmental Science and Pollution Research
 * Scientific Reports 
+* Science of the Total Environment
 
-
-
+| <a href="https://publons.com/researcher/1390785/robert-ferguson/">Publons</a>
+ 
 
 
 

@@ -286,7 +286,9 @@ EPSRC CASE studentship 09001767 and QUESTOR for funding (CRA01/09/12)
 * SItEMICRO course in Microbial Ecology. (Messina Italy, 2011)
 * Standing up for science media workshop, (Sense about Science, 2011)
 * Introduction to BioLinux (Essex, December 2013)
-* Analytical chemistry for researchers (Canﬁeld, November 2010)
+* Analytical chemistry for researchers (Canﬁeld University, November 2010)
+
+* Recruitment and Secelction (University of Essex, 2019)
 
 ## Conferences
 

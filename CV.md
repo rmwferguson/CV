@@ -65,9 +65,11 @@ __Bristol Cathedral School__
 * Data analysis
 * Field work
 * Budget management
+* Social Media
 * Grant writing
 * Peer review (grants and papers)
-* Social Media
+* Recruitment and Selection (sifting and selection of candidates, sitting on interview panels) 
+
 
  See below for specific details
 

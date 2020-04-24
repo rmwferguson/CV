@@ -81,6 +81,10 @@ __Bristol Cathedral School__
 
 ### Journal articles
 
+Sonia Garcia-Alcega., … Frederic Coulon (2020). Fingerprinting ambient air to understand bioaerosol profiles in three different environments in the south east of England. Science of The Total Environment, https://doi.org/10.1016/j.scitotenv.2020.137542
+
+Saha M, __Ferguson RMW.__, … Weinberger F. (2020). Salinity and Time Can Alter Epibacterial Communities of an Invasive Seaweed. Frontiers in Microbiology, 10:2870 doi:10.3389/fmicb.2019.02870
+
 __Robert M.W. Ferguson__, ..... I Colbeck (2019) "Bioaerosol Biomonitoring: Sampling Optimisation for Molecular Microbial Ecology" Mol Ecol Resour, doi: 10.1111/1755‐0998.13002
 
 __Ferguson RMW__, F. Coulon, and R. Villa (2018) “Understanding microbial ecology can help improve biogas production in AD,” Sci. Total Environ,  642, 754-763. 
@@ -143,8 +147,9 @@ Contribution: Senior postdoctoral research officer
 
 Outputs:
 * Rapid bioaerosol pathogen detection system, A method using LAMP to detect speicifc pathogens in < 60 in the field.
-* (Sonia Garcia-Alcega et al., 2018) and (S. Garcia-Alcega et al., 2017)
+* (Sonia Garcia-Alcega et al., 2018) and (S. Garcia-Alcega et al., 2017) and (S. Garcia-Alcega et al., 2020) 
 * Decision workflow for selecting optimal sampling strategy (Ferguson et al. 2019)
+* Youtube video https://www.youtube.com/watch?v=DnOGtxZhBQo
 
 * Detailed characterization of the bioaerosol microbiome to date using metagenetics, metagenomics, and metatranscriptomics.
 
@@ -261,6 +266,14 @@ EPSRC CASE studentship 09001767 and QUESTOR for funding (CRA01/09/12)
 * Remote SSH computing
 * Windows and MS Office 
 
+## Outreach
+
+* Maintain a twitter account ~600 followers
+* Youtube vido on bioaerosols with https://www.youtube.com/watch?v=DnOGtxZhBQo Steve Mould
+* Skype a Scientist (April 2020)
+* NERC Operation Earth training
+* Essex Big Bang fair workshop on bioaerosols for Schools (secondary age) 
+
 ## Field Skills
 
 * Planning and risk assessment
@@ -282,6 +295,9 @@ EPSRC CASE studentship 09001767 and QUESTOR for funding (CRA01/09/12)
 * Full (clean) UK drivers licence
 
 ## Courses
+* Joint supervision of doctoral students (Feb 2020)
+* Recruitment and Secelction (University of Essex, 2019)
+
 * Fundamentals of Aerosol Science (British Aerosol Society, November 2015)
 * Astrobiology and the Search for Extra-terrestrial Life (Coursera University of Edinburgh, 2014)
 * Generalised Linear Modelling in R, (Imperial College London, 2011)
@@ -289,8 +305,6 @@ EPSRC CASE studentship 09001767 and QUESTOR for funding (CRA01/09/12)
 * Standing up for science media workshop, (Sense about Science, 2011)
 * Introduction to BioLinux (Essex, December 2013)
 * Analytical chemistry for researchers (Canﬁeld University, November 2010)
-
-* Recruitment and Secelction (University of Essex, 2019)
 
 ## Conferences
 
